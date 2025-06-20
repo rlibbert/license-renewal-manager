@@ -66,7 +66,7 @@ The application allows you to manage licenses with the following details:
 
 1. Clone the repository
 ```
-git clone https://github.com/your-username/license-renewal-manager.git
+git clone https://github.com/rlibbert/license-renewal-manager.git
 cd license-renewal-manager
 ```
 
